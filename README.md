@@ -150,12 +150,12 @@ ctrl+t是改变图像大小，编辑-变形，里面有很多变形的方法，�
 
 
 
-* 在当前图层按住ctrl点击其他图层会选中其他图层的区域范围  
-* shift加  
-* alt减  
-* ctrl+shift+i反选  
-* ctrl+n新建  
-* ctrl+backspace为图层添加背景颜色  
-* ctrl+u调图片的饱和度等  
-* ctrl+t变形  
-* alt+方向键   复制多个连续  
+*在当前图层按住ctrl点击其他图层会选中其他图层的区域范围  
+*shift加  
+*alt减  
+*ctrl+shift+i反选  
+*ctrl+n新建  
+*ctrl+backspace为图层添加背景颜色  
+*ctrl+u调图片的饱和度等  
+*ctrl+t变形  
+*alt+方向键   复制多个连续  
